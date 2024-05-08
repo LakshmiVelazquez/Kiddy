@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KiddyCheckApi-Desarrollo",
+    "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0",
+    "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.Core",
+    "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.Core\\Helpers",
+    "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.Core\\Response",
+    "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess",
+    "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\Repositories",
+    "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0\\KiddyCheckApi_v1.0.0",
+    "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0\\KiddyCheckApi_v1.0.0\\Recursos"
+  ],
+  "SelectedNode": "\\KiddyCheckApi-Desarrollo\\KiddyCheckApi_v1.0.0\\KiddyCheckApi.DataAccess\\Repositories\\PersonaRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

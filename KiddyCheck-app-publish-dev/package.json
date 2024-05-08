@@ -1,0 +1,32 @@
+{
+  "name": "kiddycheck-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "@mdi/font": "^7.4.47",
+    "axios": "^1.6.8",
+    "cookie-es": "^1.1.0",
+    "destr": "^2.0.3",
+    "pinia": "^2.1.6",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "vue-cookies": "^1.8.4",
+    "vue-json-excel3": "^1.0.20",
+    "vue-qrcode-reader": "^5.5.1",
+    "vue-router": "^4.3.2",
+    "vue-toast-notification": "^3.1.2",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vuetify": "^3.3.16"
+    
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
